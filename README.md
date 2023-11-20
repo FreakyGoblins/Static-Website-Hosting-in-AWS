@@ -22,5 +22,10 @@
 
 # fetch.html
 
+![Screenshot-_46_](https://github.com/FreakyGoblins/Static-Website-Hosting-in-AWS/assets/143277720/7525bd2c-dbdf-46fa-a39c-4dc61167e860)
 
-![Uploading Screenshot (46).png…]()
+
+# index.html
+
+![Screenshot-_47_](https://github.com/FreakyGoblins/Static-Website-Hosting-in-AWS/assets/143277720/27a72479-59d3-428a-bf9d-5c0a4acbb5b6)
+
